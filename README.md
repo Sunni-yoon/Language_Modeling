@@ -1,15 +1,5 @@
 # Language_Modeling (인공신경망과 딥러닝)
 
-
-  
---------------------------------------------------------------------------------------
-## 파일 설명
-
-```main.py``` : 모델 학습 & 테스트 전체 <br/>
-```dataset.py``` : MNIST 데이터셋 전처리 <br/>
-```model.py``` : LeNet-5, Custom MLP, Regularized LeNet-5 세가지 모델 구현 <br/>
-```plot_visualization.py``` : main 결과값 plot 시각화 <br/>
-
 --------------------------------------------------------------------------------------
 
 ## Plot the average loss values for training and validation <br/>
@@ -55,20 +45,63 @@ Validation Split : 20% <br/>
   * [RNN] 1.8566 > [LSTM] 1.6201 <br/>
 * The validation loss for CharRNN decreases gradually but stabilizes at a higher value compared to CharLSTM. <br/>
 * This indicates that the CharLSTM model generalizes better to the validation dataset and can generate more plausible text sequences. <br/>
-* It suggests that LSTM's ability to capture long-term dependencies in sequences contributes to its better performance in language generation tasks compared to RNN. 
+* It suggests that LSTM's ability to capture long-term dependencies in sequences contributes to its better performance in language generation tasks compared to RNN. <br/>
 
-1. love <br/>
+--------------------------------------------------------------------------------------
+
+## Generating at least 100 length of 5 different samples from different seed characters
+**1. love** <br/>
 Generated Text : <br/>
 loved men and beow'd. Now you dake not,He as he is sher, if my farewal sat 'twas ome of Rome, let that 
 
-2. mind <br/>
+**2. mind** <br/>
 Generated Text : mind of seif a thing! I stouting was say them you dranred maves within people:The marreur goistings for <br/>
 
-3. child <br/>
+**3. child** <br/>
 Generated Text : child is resby my from my good of blage than betber. BUCKINGHAM:Your partot wath? our ibhance, bloody h <br/>
 
-4. good <br/>
+**4. good** <br/>
 Generated Text : good confast.CLARENCE:I holy bonicter in offineit is my noble cares to hate undocchess the brow with <br/>  
 
-5. happy <br/>
+**5. happy** <br/>
 Generated Text : happy but of your bear you breath of him,A voices King apony the what.QUEEN MARGARET:I hators You hav
+
+--------------------------------------------------------------------------------------
+
+## Generating at least 100 length of 5 different samples from different seed characters
+
+**word : happy** <br/>
+
+* Temperature 0.1 : <br/>
+  * happy the country and the country to the son the consul of the world of the consul and the country so the
+
+Temperature 0.5:
+happy is such horse of the service:
+For the holy for with the king and do so streak of the must let the n
+
+
+Temperature 1.0:
+happy to the wife.
+
+LADY ANNE:
+If, But other duse this thought him, perserful wintanted
+To lose me, my lo
+
+
+Temperature 2.0:
+happysry?
+To-muldingsser, draw Gringlim:-oden has,
+I, he, ruve dliled unmoy muving, and
+uf thrumedady',-a
+
+
+Temperature 5.0:
+happyhnleyiemr;!:wA
+dPh
+PrS?Ckno! wh byxRo
+eNtonduusook'r;;
+minf  mBqlei!Esvvoum
+ZanK
+AefocDaj.!
+Edos-de.
+
