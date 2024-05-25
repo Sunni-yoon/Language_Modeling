@@ -12,7 +12,16 @@
 
 --------------------------------------------------------------------------------------
 
-## Plot the average loss values for training and validation
+## Plot the average loss values for training and validation <br/>
+[Training Details]
+Epochs: 10
+Batch Size: 128
+Embedding Dimension: 128
+Hidden Dimension: 128
+Number of Layers: 2
+Learning Rate: 0.0005
+Dropout Probability: 0.5
+Validation Split: 20% <br/>
 ### RNN 
 Training for 10 epochs
 * Epoch 1, Train Loss: 2.2965, Val Loss: 1.9917 <br/>
@@ -28,6 +37,21 @@ Training for 10 epochs
 ![rnn_training_validation_loss](https://github.com/Sunni-yoon/Language_Modeling/assets/118954283/14783fc3-fdda-4b3e-a019-1781c504f095)
 
 ### LSTM
+Training for 10 epochs
+* Epoch 1/10, Train Loss: 2.1926, Val Loss: 1.8468 <br/>
+* Epoch 2/10, Train Loss: 1.8664, Val Loss: 1.7499 <br/>
+* Epoch 3/10, Train Loss: 1.7883, Val Loss: 1.7037 <br/>
+* Epoch 4/10, Train Loss: 1.7464, Val Loss: 1.6784 <br/>
+* Epoch 5/10, Train Loss: 1.7185, Val Loss: 1.6620 <br/>
+* Epoch 6/10, Train Loss: 1.6984, Val Loss: 1.6514 <br/>
+* Epoch 7/10, Train Loss: 1.6834, Val Loss: 1.6398 <br/>
+* Epoch 8/10, Train Loss: 1.6706, Val Loss: 1.6339 <br/>
+* Epoch 9/10, Train Loss: 1.6602, Val Loss: 1.6248 <br/>
+* Epoch 10/10, Train Loss: 1.6510, Val Loss: 1.6201 <br/>
+![lstm_training_validation_loss](https://github.com/Sunni-yoon/Language_Modeling/assets/118954283/a274aa18-4234-4b63-87b8-11d9375c0f9f)
+
+--------------------------------------------------------------------------------------
+
 ## Compare the language generation performances of vanilla RNN and LSTM in terms of loss values for validation dataset
 - Requirements
     1. You should write your own pipeline to provide data to your model. Write your code in the template `dataset.py`. Please read the comments carefully and follow those instructions.
