@@ -88,8 +88,8 @@ Generated Text : happy but of your bear you breath of him,A voices King apony th
 * Temperature 5.0 : <br/>
   * happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
 
-The temperature parameter in the softmax function controls the randomness of the generated text. <br/>
-A lower temperature makes the model more conservative, resulting in repetitive and less diverse text. <br/>
-A higher temperature increases diversity but can lead to less coherent and more random outputs. <br/>
-Therefore, adjusting this temperature parameter can help generate more plausible results. <br/>
-Generally, a temperature around 1.0 provides a good balance for generating plausible and varied text.
+* The temperature parameter in the softmax function controls the randomness of the generated text. <br/>
+* A lower temperature makes the model more conservative, resulting in repetitive and less diverse text. <br/>
+* A higher temperature increases diversity but can lead to less coherent and more random outputs. <br/>
+* Therefore, adjusting this temperature parameter can help generate more plausible results. <br/>
+* Generally, a temperature around 1.0 provides a good balance for generating plausible and varied text.
