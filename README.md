@@ -73,10 +73,10 @@ Generated Text : happy but of your bear you breath of him,A voices King apony th
 **Temperatures : 0.1 / 0.5 / 1.0 / 2.0 / 5.0** <br/>
 **word : happy** <br/>
 
-* Temperature 0.1 :
+* Temperature 0.1 : <br/>
   * happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
 
-* Temperature 0.5 : <br/>
+* Temperature 0.5 :
   * happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
 
 * Temperature 1.0 : <br/>
