@@ -70,20 +70,26 @@ Generated Text : happy but of your bear you breath of him,A voices King apony th
 
 ## Generating at least 100 length of 5 different samples from different seed characters
 
+**Temperatures : 0.1 / 0.5 / 1.0 / 2.0 / 5.0**
 **word : happy** <br/>
 
 * Temperature 0.1 :
   * happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
 
 * Temperature 0.5 : <br/>
- * happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
+  * happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
 
 * Temperature 1.0 : <br/>
- * happy to the wife. LADY ANNE:If, But other duse this thought him, perserful wintanted To lose me, my lo <br/>
+  * happy to the wife. LADY ANNE:If, But other duse this thought him, perserful wintanted To lose me, my lo <br/>
 
 * Temperature 2.0 : <br/>
- * happysry?To-muldingsser, draw Gringlim:-oden has, I, he, ruve dliled unmoy muving, and uf thrumedady',-a <br/>
+  * happysry?To-muldingsser, draw Gringlim:-oden has, I, he, ruve dliled unmoy muving, and uf thrumedady',-a <br/>
 
 * Temperature 5.0 : <br/>
- * happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
+  * happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
 
+The temperature parameter in the softmax function controls the randomness of the generated text. <br/>
+A lower temperature makes the model more conservative, resulting in repetitive and less diverse text. <br/>
+A higher temperature increases diversity but can lead to less coherent and more random outputs. <br/>
+Therefore, adjusting this temperature parameter can help generate more plausible results. <br/>
+Generally, a temperature around 1.0 provides a good balance for generating plausible and varied text.
