@@ -1,7 +1,5 @@
 # Language_Modeling (인공신경망과 딥러닝)
 
---------------------------------------------------------------------------------------
-
 ## Plot the average loss values for training and validation <br/>
 **[Training Details]**  <br/>
 Epochs : 10  <br/>
