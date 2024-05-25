@@ -73,35 +73,17 @@ Generated Text : happy but of your bear you breath of him,A voices King apony th
 **word : happy** <br/>
 
 * Temperature 0.1 : <br/>
-  * happy the country and the country to the son the consul of the world of the consul and the country so the
+ * happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
 
-Temperature 0.5:
-happy is such horse of the service:
-For the holy for with the king and do so streak of the must let the n
+* Temperature 0.5 : <br/>
+ * happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
 
+* Temperature 1.0 : <br/>
+ * happy to the wife. LADY ANNE:If, But other duse this thought him, perserful wintanted To lose me, my lo <br/>
 
-Temperature 1.0:
-happy to the wife.
+* Temperature 2.0 : <br/>
+ * happysry?To-muldingsser, draw Gringlim:-oden has, I, he, ruve dliled unmoy muving, and uf thrumedady',-a <br/>
 
-LADY ANNE:
-If, But other duse this thought him, perserful wintanted
-To lose me, my lo
-
-
-Temperature 2.0:
-happysry?
-To-muldingsser, draw Gringlim:-oden has,
-I, he, ruve dliled unmoy muving, and
-uf thrumedady',-a
-
-
-Temperature 5.0:
-happyhnleyiemr;!:wA
-dPh
-PrS?Ckno! wh byxRo
-eNtonduusook'r;;
-minf  mBqlei!Esvvoum
-ZanK
-AefocDaj.!
-Edos-de.
+* Temperature 5.0 : <br/>
+ * happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
 
