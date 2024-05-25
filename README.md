@@ -78,8 +78,8 @@ happy but of your bear you breath of him,A voices King apony the what.QUEEN MARG
 **word : happy** <br/>
 
 * Temperature 0.1 : <br/>
-  * happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
- At a low temperature of 0.1, the generated text is highly repetitive and lacks diversity. The model is conservative, choosing the most likely next character with high certainty, resulting in repetitive phrases. <br/>
+  * Generated Text : happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
+  * At a low temperature of 0.1, the generated text is highly repetitive and lacks diversity. The model is conservative, choosing the most likely next character with high certainty, resulting in repetitive phrases. <br/>
 
 * Temperature 0.5 :
   * happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
