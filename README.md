@@ -71,9 +71,9 @@ happy but of your bear you breath of him,A voices King apony the what.QUEEN MARG
 --------------------------------------------------------------------------------------
 
 ## Try different temperatures and discussing the differences in results
- 
+**Best model : LSTM**
 **Temperatures : 0.1 / 0.5 / 1.0 / 2.0 / 5.0** <br/>
-**word : happy** <br/>
+**Word : happy** <br/>
 
 * Temperature 0.1 : <br/>
   * Generated Text : happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
