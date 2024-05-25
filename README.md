@@ -72,7 +72,7 @@ Generated Text : happy but of your bear you breath of him,A voices King apony th
 
 **word : happy** <br/>
 
-* Temperature 0.1 : <br/>
+* Temperature 0.1 :
  * happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
 
 * Temperature 0.5 : <br/>
