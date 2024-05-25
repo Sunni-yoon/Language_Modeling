@@ -14,17 +14,17 @@
 
 ## Plot the average loss values for training and validation
 ### RNN 
-10 epochs
-* Epoch 1/10, Train Loss: 2.2965, Val Loss: 1.9917 <br/>
-* Epoch 2/10, Train Loss: 2.1075, Val Loss: 1.9374 <br/>
-* Epoch 3/10, Train Loss: 2.0647, Val Loss: 1.9115 <br/>
-* Epoch 4/10, Train Loss: 2.0422, Val Loss: 1.8949 <br/>
-* Epoch 5/10, Train Loss: 2.0264, Val Loss: 1.8839 <br/>
-* Epoch 6/10, Train Loss: 2.0158, Val Loss: 1.8749 <br/>
-* Epoch 7/10, Train Loss: 2.0067, Val Loss: 1.8704 <br/>
-* Epoch 8/10, Train Loss: 1.9993, Val Loss: 1.8619 <br/>
-* Epoch 9/10, Train Loss: 1.9934, Val Loss: 1.8589 <br/>
-* Epoch 10/10, Train Loss: 1.9873, Val Loss: 1.8566 <br/>
+Training for 10 epochs
+* Epoch 1, Train Loss: 2.2965, Val Loss: 1.9917 <br/>
+* Epoch 2, Train Loss: 2.1075, Val Loss: 1.9374 <br/>
+* Epoch 3, Train Loss: 2.0647, Val Loss: 1.9115 <br/>
+* Epoch 4, Train Loss: 2.0422, Val Loss: 1.8949 <br/>
+* Epoch 5, Train Loss: 2.0264, Val Loss: 1.8839 <br/>
+* Epoch 6, Train Loss: 2.0158, Val Loss: 1.8749 <br/>
+* Epoch 7, Train Loss: 2.0067, Val Loss: 1.8704 <br/>
+* Epoch 8, Train Loss: 1.9993, Val Loss: 1.8619 <br/>
+* Epoch 9, Train Loss: 1.9934, Val Loss: 1.8589 <br/>
+* Epoch 10, Train Loss: 1.9873, Val Loss: 1.8566 <br/>
 ![rnn_training_validation_loss](https://github.com/Sunni-yoon/Language_Modeling/assets/118954283/14783fc3-fdda-4b3e-a019-1781c504f095)
 
 ### LSTM
