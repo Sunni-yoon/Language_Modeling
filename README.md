@@ -55,16 +55,20 @@ Generated Text : <br/>
 loved men and beow'd. Now you dake not,He as he is sher, if my farewal sat 'twas ome of Rome, let that 
 
 **2. mind** <br/>
-Generated Text : mind of seif a thing! I stouting was say them you dranred maves within people:The marreur goistings for <br/>
+Generated Text : <br/>
+mind of seif a thing! I stouting was say them you dranred maves within people:The marreur goistings for <br/>
 
 **3. child** <br/>
-Generated Text : child is resby my from my good of blage than betber. BUCKINGHAM:Your partot wath? our ibhance, bloody h <br/>
+Generated Text : <br/>
+child is resby my from my good of blage than betber. BUCKINGHAM:Your partot wath? our ibhance, bloody h <br/>
 
 **4. good** <br/>
-Generated Text : good confast.CLARENCE:I holy bonicter in offineit is my noble cares to hate undocchess the brow with <br/>  
+Generated Text : <br/>
+good confast.CLARENCE:I holy bonicter in offineit is my noble cares to hate undocchess the brow with <br/>  
 
 **5. happy** <br/>
-Generated Text : happy but of your bear you breath of him,A voices King apony the what.QUEEN MARGARET:I hators You hav
+Generated Text : <br/>
+happy but of your bear you breath of him,A voices King apony the what.QUEEN MARGARET:I hators You hav
 
 --------------------------------------------------------------------------------------
 
