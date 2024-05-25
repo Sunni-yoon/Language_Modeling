@@ -49,7 +49,7 @@ Validation Split : 20% <br/>
 
 ## Generating at least 100 length of 5 different samples from different seed characters
 **Best model : LSTM** <br/>
-
+**Seed characters : love / mind / child / good / happy** <br/>
 **1. love** <br/>
 Generated Text : <br/>
 loved men and beow'd. Now you dake not,He as he is sher, if my farewal sat 'twas ome of Rome, let that 
@@ -74,7 +74,7 @@ happy but of your bear you breath of him,A voices King apony the what.QUEEN MARG
 
 ## Try different temperatures and discussing the differences in results
 **Temperatures : 0.1 / 0.5 / 1.0 / 2.0 / 5.0** <br/>
-**Word : happy** <br/>
+**Seed characters : happy** <br/>
 
 * Temperature 0.1 : <br/>
   * Generated Text : happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
