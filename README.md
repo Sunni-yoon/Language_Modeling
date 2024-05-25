@@ -79,25 +79,29 @@ happy but of your bear you breath of him,A voices King apony the what.QUEEN MARG
 
 * Temperature 0.1 : <br/>
   * Generated Text : happy the country and the country to the son the consul of the world of the consul and the country so the <br/>
-  * At a low temperature of 0.1, the generated text is highly repetitive and lacks diversity. The model is conservative, choosing the most likely next character with high certainty, resulting in repetitive phrases. <br/>
+  * At a temperature of 0.1, the generated text is very repetitive and lacks diversity. <br/>
 
 * Temperature 0.5 :
-  * happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
+  * Generated Text : happy is such horse of the service:For the holy for with the king and do so streak of the must let the n <br/>
+  * At a temperature of 0.5, the text shows some diversity while maintaining consistency. The generated text has more variety and some meaningful structure but can still be somewhat repetitive. <br/>
 
 * Temperature 1.0 : <br/>
   * happy to the wife. LADY ANNE:If, But other duse this thought him, perserful wintanted To lose me, my lo <br/>
+  * At a temperature of 1.0, the model generates more diverse text while maintaining coherence. This setting allows the model to produce plausible and varied text sequences without being too conservative or too random. <br/>
 
 * Temperature 2.0 : <br/>
   * happysry?To-muldingsser, draw Gringlim:-oden has, I, he, ruve dliled unmoy muving, and uf thrumedady',-a <br/>
+  * At a temperature of 2.0, the text becomes more diverse but loses consistency. The model generates creative but less meaningful output. <br/>
 
 * Temperature 5.0 : <br/>
   * happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
+  * At a temperature of 5.0, the generated text is highly random. The model samples almost uniformly from the probability distribution, resulting in nonsensical output. <br/>
   
  <br/>
  
 **Discussion** <br/>
 * The temperature parameter in the softmax function controls the randomness of the generated text. <br/>
 * A lower temperature (<1) makes the model more conservative, resulting in repetitive and less diverse text. <br/>
-* A higher temperature (>1) increases diversity but can lead to less coherent and more random outputs. <br/>
-* Therefore, adjusting this temperature parameter can help generate more plausible results. <br/>
+* A higher temperature (>1) increases diversity but can lead to less coherent and more random outputs. <br/> 
+* As shown in the results above, the model generates different values depending on the temperature parameter. Therefore, adjusting the temperature parameter can help generate more plausible results. <br/>
 * Generally, a temperature around 1.0 provides a good balance for generating plausible and varied text.
