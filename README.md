@@ -84,15 +84,15 @@ happy but of your bear you breath of him,A voices King apony the what.QUEEN MARG
   * At a temperature of 0.5, the text shows some diversity while maintaining consistency. The generated text has more variety and some meaningful structure but can still be somewhat repetitive. <br/>
 
 * Temperature 1.0 : <br/>
-  * happy to the wife. LADY ANNE:If, But other duse this thought him, perserful wintanted To lose me, my lo <br/>
+  * Generated Text : happy to the wife. LADY ANNE:If, But other duse this thought him, perserful wintanted To lose me, my lo <br/>
   * At a temperature of 1.0, the model generates more diverse text while maintaining coherence. This setting allows the model to produce plausible and varied text sequences without being too conservative or too random. <br/>
 
 * Temperature 2.0 : <br/>
-  * happysry?To-muldingsser, draw Gringlim:-oden has, I, he, ruve dliled unmoy muving, and uf thrumedady',-a <br/>
+  * Generated Text : happysry?To-muldingsser, draw Gringlim:-oden has, I, he, ruve dliled unmoy muving, and uf thrumedady',-a <br/>
   * At a temperature of 2.0, the text becomes more diverse but loses consistency. The model generates creative but less meaningful output. <br/>
 
 * Temperature 5.0 : <br/>
-  * happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
+  * Generated Text : happyhnleyiemr;!:wAdPhPrS?Ckno! wh byxRo eNtonduusook'r;; minf  mBqlei!Esvvoum ZanK AefocDaj.! Edos-de. <br/>
   * At a temperature of 5.0, the generated text is highly random. The model samples almost uniformly from the probability distribution, resulting in nonsensical output. <br/>
   
  <br/>
