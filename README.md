@@ -14,16 +14,15 @@
 
 ## Plot the average loss values for training and validation <br/>
 **[Training Details]**  <br/>
-Epochs: 10  <br/>
-Batch Size: 128  <br/>
-Embedding Dimension: 128  <br/>
-Hidden Dimension: 128  <br/>
-Number of Layers: 2  <br/>
-Learning Rate: 0.0005  <br/>
-Dropout Probability: 0.5  <br/>
-Validation Split: 20% <br/>
+Epochs : 10  <br/>
+Batch Size : 128  <br/>
+Embedding Dimension : 128  <br/>
+Hidden Dimension : 128  <br/>
+Number of Layers : 2  <br/>
+Learning Rate : 0.0005  <br/>
+Dropout Probability : 0.5  <br/>
+Validation Split : 20% <br/>
 ### RNN 
-Training for 10 epochs
 * Epoch 1, Train Loss: 2.2965, Val Loss: 1.9917 <br/>
 * Epoch 2, Train Loss: 2.1075, Val Loss: 1.9374 <br/>
 * Epoch 3, Train Loss: 2.0647, Val Loss: 1.9115 <br/>
@@ -37,7 +36,6 @@ Training for 10 epochs
 ![rnn_training_validation_loss](https://github.com/Sunni-yoon/Language_Modeling/assets/118954283/14783fc3-fdda-4b3e-a019-1781c504f095)
 
 ### LSTM
-Training for 10 epochs
 * Epoch 1/10, Train Loss: 2.1926, Val Loss: 1.8468 <br/>
 * Epoch 2/10, Train Loss: 1.8664, Val Loss: 1.7499 <br/>
 * Epoch 3/10, Train Loss: 1.7883, Val Loss: 1.7037 <br/>
