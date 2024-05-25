@@ -72,7 +72,7 @@ happy but of your bear you breath of him,A voices King apony the what.QUEEN MARG
 
 --------------------------------------------------------------------------------------
 
-## Generating at least 100 length of 5 different samples from different seed characters
+## Try different temperatures and discussing the differences in results
  
 **Temperatures : 0.1 / 0.5 / 1.0 / 2.0 / 5.0** <br/>
 **word : happy** <br/>
