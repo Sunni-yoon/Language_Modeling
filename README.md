@@ -53,6 +53,7 @@ Validation Split : 20% <br/>
 ## Compare the language generation performances of vanilla RNN and LSTM in terms of loss values for validation dataset
 As observed, the CharLSTM consistently shows lower validation loss compared to CharRNN across all epochs. <br/>
 * [RNN] 1.8566 > [LSTM] 1.6201 <br/>
+<br/>
 The validation loss for CharRNN decreases gradually but stabilizes at a higher value compared to CharLSTM. <br/>
 This indicates that the CharLSTM model generalizes better to the validation dataset and can generate more plausible text sequences. <br/>
 It suggests that LSTM's ability to capture long-term dependencies in sequences contributes to its better performance in language generation tasks compared to RNN. 
