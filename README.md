@@ -2,14 +2,14 @@
 ----------------------------------------------------
 ## Plot the average loss values for training and validation <br/>
 **[Training Details]**  <br/>
-Epochs : 10  <br/>
-Batch Size : 128  <br/>
-Embedding Dimension : 128  <br/>
-Hidden Dimension : 128  <br/>
-Number of Layers : 2  <br/>
-Learning Rate : 0.0005  <br/>
-Dropout Probability : 0.5  <br/>
-Validation Split : 20% <br/>
+- Epochs : 10  <br/>
+- Batch Size : 128  <br/>
+- Embedding Dimension : 128  <br/>
+- Hidden Dimension : 128  <br/>
+- Number of Layers : 2  <br/>
+- Learning Rate : 0.0005  <br/>
+- Dropout Probability : 0.5  <br/>
+- Validation Split : 20% <br/>
 ### RNN 
 * Epoch 1, Train Loss: 2.2965, Val Loss: 1.9917 <br/>
 * Epoch 2, Train Loss: 2.1075, Val Loss: 1.9374 <br/>
